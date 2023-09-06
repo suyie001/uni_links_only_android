@@ -23,7 +23,3 @@ flutter:
       android:
         package: name.avioli.unilinks
         pluginClass: UniLinksPlugin
-      ios:
-        pluginClass: UniLinksPlugin
-      web:
-        default_package: uni_links_web
